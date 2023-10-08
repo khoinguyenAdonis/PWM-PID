@@ -1,0 +1,9 @@
+../Core/Src/i2c.c:29:6:MX_I2C1_Init	8	static
+../Core/Src/i2c.c:58:6:HAL_I2C_MspInit	48	static
+../Core/Src/i2c.c:88:6:HAL_I2C_MspDeInit	16	static
+../Core/Src/i2c.c:118:6:lcd_send_cmd	32	static
+../Core/Src/i2c.c:131:6:lcd_send_data	32	static
+../Core/Src/i2c.c:144:6:lcd_clear	16	static
+../Core/Src/i2c.c:153:6:lcd_put_cur	16	static
+../Core/Src/i2c.c:176:6:lcd_init	8	static
+../Core/Src/i2c.c:202:6:lcd_send_string	16	static

@@ -1,0 +1,46 @@
+!SESSION 2023-10-07 22:44:58.108 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-07 22:45:16.752
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-07 22:45:16.753
+!MESSAGE Log4j2 initialized with config file /media/khoi/Project/PWm/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-07 22:45:18.546
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2023-10-07 22:47:34.657 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /media/khoi/Project/PWm -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-07 22:47:37.793
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-07 22:47:37.793
+!MESSAGE Log4j2 initialized with config file /media/khoi/Project/PWm/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-07 22:47:39.680
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2023-10-07 22:48:39.361 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  /media/khoi/Project/PWm
+Command-line arguments:  -os linux -ws gtk -arch x86_64 /media/khoi/Project/PWm
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-07 22:48:58.451
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-07 22:48:58.451
+!MESSAGE Log4j2 initialized with config file /media/khoi/Project/PWm/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-07 22:49:00.409
+!MESSAGE Started RMI Server, listening on port 41338
